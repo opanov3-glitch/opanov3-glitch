@@ -1,16 +1,40 @@
-## Hi there 👋
+Олег NXT · Art Engineer / Арт-инженер
+Hybrid installations: painting + readymade + electronics + AI video
+Гибридные инсталляции: живопись + readymade + электроника + ИИ-видео
 
-<!--
-**opanov3-glitch/opanov3-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technology is not the goal — it's the language
+Технология — не цель, а язык
 
-Here are some ideas to get you started:
+Focus / Чем занимаюсь
+Electronic art objects & installations / Электронные арт-объекты и инсталляции
+Video art & AI video on 3D holographic fans / Видеоарт и ИИ-видео на 3D-вентиляторах
+Kinetic objects, robotic birds, hexapods / Кинетические объекты, роботы-птицы, гексаподы
+No-code physical computing: relays, MOSFETs, sensors, light / Физические вычисления без кода: реле, мосфеты, датчики, свет
+Project: NXT/ HAMR
+Stанция 3 :: {РОЩА} — Hybrid Technological Art / Гибридное технологическое искусство
+Location / Локация: GRAY ZONE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hybrid installations: Portal VB · Portal IN
+Electronics, video, AI, ready-made, painting / Электроника, видео, ИИ, ready-made, живопись
+
+Video Ai
+Video:: Зона Комфорта
+Video:: Experiment 01 [Fr]
+Video:: Experiment 02 [Fg]
+Video:: Experiment 03 [Fj]
+In the gray zone there is no neutral color.
+Shields are walls of memory. Pipes are arteries where data and light flow, not water.
+There is no spectator — only a participant.
+This is Stанция 3: entrance open, no exit.
+
+В серой зоне нет нейтрального цвета.
+Щиты — стены памяти. Трубы — артерии, в которых течёт не вода, а данные и свет.
+Здесь нет зрителя — есть соучастник.
+Это Stанция 3: вход открыт, выхода нет.
+
+Contact / Связаться
+Email: opanov3@gmail.com
+Instagram: olegart20
+Facebook: OlegNxt
+VK: olegnxt
+Art Engineer · Арт-инженер
