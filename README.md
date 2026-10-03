@@ -1,55 +1,65 @@
 # Oleg NXT · Art Engineer / Арт-инженер
 
-Hybrid installations: painting + readymade + electronics + AI video
- / Гибридные инсталляции: живопись + readymade + электроника + ИИ-видео
+**Hybrid installations: painting + readymade + electronics + AI video**  
+**Гибридные инсталляции: живопись + readymade + электроника + ИИ-видео**
 
-Technology is not the goal — it's the language
- / Технология — не цель, а язык
+> **Technology is not the goal — it's the language**  
+> **Технология — не цель, а язык**
 
 ---
 
 ## Focus / Чем занимаюсь
 
-- Electronic art objects & installations / Электронные арт-объекты и инсталляции
-- Video art & AI video on 3D holographic fans / Видеоарт и ИИ-видео на 3D-вентиляторах
-- Kinetic objects, robotic birds, hexapods / Кинетические объекты, роботы-птицы, гексаподы
-- No-code physical computing: relays, MOSFETs, sensors, light / Физические вычисления без кода: реле, мосфеты, датчики, свет
+- Electronic art objects & installations 
+- Электронные арт-объекты и инсталляции
+
+- Video art & AI video on 3D holographic fans 
+- Видеоарт и ИИ-видео на 3D-вентиляторах
+ 
+- Kinetic objects, robotic birds, hexapods  
+- Кинетические объекты, роботы-птицы, гексаподы
+
+- Physical computing: relays, MOSFETs, sensors, LEDs, light control 
+- Физические вычисления: реле, MOSFET, датчики, светодиоды, управление светом
+
+---
+<img width="1448" height="1086" alt="Мебиус Гитхаб" src="https://github.com/user-attachments/assets/f0876fee-aa29-4df1-b61a-f72d5ac6eecb" />
+
+
+## MEBIUS LS-5050-1240
+
+**«Ночь света в Гатчине» · 2018**
+
+**Oleg NXT / Art-Object Laboratory**
+
+Световая кинетическая инсталляция на основе пространственной формы Мёбиуса.
+
+Проект объединяет художественную конструкцию, электронику и программируемое управление светом.  
+Светодиодные линии формируют **бегущую световую волну**, превращая геометрию объекта в динамическую световую среду.
+
+**Electronics · Arduino · Programming · LED · Light · Installation**
 
 ---
 
-## Project: NXT/ HAMR
+## Projects / Проекты
 
-- **Stанция 3 :: {РОЩА}** — Hybrid Technological Art / Гибридное технологическое искусство
-- Location / Локация: GRAY ZONE
-- **Hybrid installations: Portal VB · Portal  IN**
-- Electronics, video, AI, ready-made, painting / Электроника, видео, ИИ, ready-made, живопись
+### Electronic Art Objects
+Электронные объекты и световые инсталляции, в которых электроника становится частью художественного языка.
 
--
+### AI Video & 3D Holographic Displays
+Видеоарт и генеративное видео для 3D-голографических вентиляторов.
 
-<img width="782" height="1042" alt="Порталы2" src="https://github.com/user-attachments/assets/04bacf0b-6268-4efc-83fc-779296cd85c3" />
+### Kinetic & Robotic Objects
+Кинетические конструкции, роботы-птицы, гексаподы и экспериментальные механизмы.
 
--
-
-## Video Ai
-
-- Video:: Зона Комфорта
-- Video:: Experiment 01 [Fr],  Experiment 02 [Fg], Experiment 03 [Fj] 
-
-> In the gray zone there is no neutral color.
-> Shields are walls of memory. Pipes are arteries where data and light flow, not water.
-> There is no spectator — only a participant.
-> This is Stанция 3: entrance open, no exit.
->
-> В серой зоне нет нейтрального цвета.
-> Щиты — стены памяти. Трубы — артерии, в которых течёт не вода, а данные и свет.
-> Здесь нет зрителя — есть соучастник.
-> Это Stанция 3: вход открыт, выхода нет.
+### Light & Physical Computing
+Реле, MOSFET, датчики, Arduino, светодиоды и системы управления светом.
 
 ---
 
 ## Contact / Связаться
 
-- Email: opanov3@gmail.com
+- Email: [opanov3@gmail.com](mailto:opanov3@gmail.com)
 - Instagram: [olegart20](https://www.instagram.com/olegart20/)
 - Facebook: [OlegNxt](https://www.facebook.com/OlegNxt/)
 - VK: [olegnxt](https://vk.ru/olegnxt)
