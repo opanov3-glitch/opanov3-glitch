@@ -21,7 +21,7 @@ Technology is not the goal — it's the language
 
 **Stанция 3 :: {РОЩА}** — Hybrid Technological Art / Гибридное технологическое искусство
 Location / Локация: GRAY ZONE
-<img width="1824" height="2432" alt="Порталы" src="https://github.com/user-attachments/assets/488d3f42-bbe5-4771-a670-c2b125ea9d36" />
+
 
 
 **Hybrid installations: Portal VB · Portal  IN**
