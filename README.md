@@ -1,4 +1,4 @@
-# Олег NXT · Art Engineer / Арт-инженер
+# Oleg NXT · Art Engineer / Арт-инженер
 
 Hybrid installations: painting + readymade + electronics + AI video
 Гибридные инсталляции: живопись + readymade + электроника + ИИ-видео
