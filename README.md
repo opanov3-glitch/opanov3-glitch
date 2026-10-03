@@ -21,13 +21,13 @@ Technology is not the goal — it's the language
 
 **Stанция 3 :: {РОЩА}** — Hybrid Technological Art / Гибридное технологическое искусство
 Location / Локация: GRAY ZONE
->
-
-<img width="782" height="1042" alt="Порталы2" src="https://github.com/user-attachments/assets/04bacf0b-6268-4efc-83fc-779296cd85c3" />
->
 **Hybrid installations: Portal VB · Portal  IN**
 Electronics, video, AI, ready-made, painting / Электроника, видео, ИИ, ready-made, живопись
+-
 
+<img width="782" height="1042" alt="Порталы2" src="https://github.com/user-attachments/assets/04bacf0b-6268-4efc-83fc-779296cd85c3" />
+
+-
 ## Video Ai
 
 - Video:: Зона Комфорта
