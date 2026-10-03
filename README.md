@@ -1,10 +1,10 @@
 # Oleg NXT · Art Engineer / Арт-инженер
 
 Hybrid installations: painting + readymade + electronics + AI video
-Гибридные инсталляции: живопись + readymade + электроника + ИИ-видео
+ / Гибридные инсталляции: живопись + readymade + электроника + ИИ-видео
 
 Technology is not the goal — it's the language
-Технология — не цель, а язык
+ / Технология — не цель, а язык
 
 ---
 
