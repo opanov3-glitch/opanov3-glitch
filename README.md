@@ -19,10 +19,10 @@ Technology is not the goal — it's the language
 
 ## Project: NXT/ HAMR
 
-> **Stанция 3 :: {РОЩА}** — Hybrid Technological Art / Гибридное технологическое искусство
-> Location / Локация: GRAY ZONE
-> **Hybrid installations: Portal VB · Portal  IN**
-> Electronics, video, AI, ready-made, painting / Электроника, видео, ИИ, ready-made, живопись
+- **Stанция 3 :: {РОЩА}** — Hybrid Technological Art / Гибридное технологическое искусство
+- Location / Локация: GRAY ZONE
+- **Hybrid installations: Portal VB · Portal  IN**
+- Electronics, video, AI, ready-made, painting / Электроника, видео, ИИ, ready-made, живопись
 
 -
 
